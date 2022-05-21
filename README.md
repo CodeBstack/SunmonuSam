@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SunmonuSam
+- 👋 Hi, I’m Samuel
 - 👀 I’m interested in solving tech problems which is my main drive to joining the tech space.
 - 🌱 I’m currently learning JavaScript and React framework.
 - 💞️ I’m looking to collaborate on projects.
